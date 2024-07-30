@@ -2,13 +2,13 @@
 
 ![Smart Fit](./src/assets/images/svg/logo.svg)
 
-Este repositório contém a solução para o desafio de [Front-end da Smart Fit](https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master) desenvolvido durante o vídeo em meu canal. Eu utilizei o framework Angular para desenvolver a aplicação, e você pode assistir o vídeo onde resolvi o desafio em meu canal [aqui](https://www.youtube.com/watch?v=ozZXMkp8MnQ).
+Este repositório contém a solução para o desafio de [Front-end da Smart Fit](https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master) desenvolvido com base no vídeo de uma youtuber. Utilize o framework Angular para criar a aplicação, e você pode assistir ao vídeo original que segui [aqui](https://www.youtube.com/watch?v=ozZXMkp8MnQ).
 
 ## 📖 Sobre o desafio
 
-A Smart Fit, atuando no segmento de fitness, passou por várias mudanças durante a pandemia. Foi necessário desenvolver uma página para buscar unidades abertas ou fechadas para consulta e reserva. 
+A Smart Fit, atuando no segmento de fitness, precisou adaptar suas operações durante a pandemia, e o desafio foi desenvolver uma página para buscar unidades abertas ou fechadas para consulta e reserva.
 
-Neste desafio, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
+Neste desafio, implementei as seguintes funcionalidades conforme as regras de negócio definidas:
 
 ### Funcionalidades
 [x] Carrega unidades através do arquivo JSON [locations.json](https://test-frontend-developer.s3.amazonaws.com/data/locations.json) utilizando o método `GET`.
